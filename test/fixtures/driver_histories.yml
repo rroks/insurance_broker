@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  peroson: one
+  date_of_incident: 2017-08-15
+  total_value_of_claim: 1
+  incident_type: MyString
+  description: MyText
+
+two:
+  peroson: two
+  date_of_incident: 2017-08-15
+  total_value_of_claim: 1
+  incident_type: MyString
+  description: MyText
